@@ -11,3 +11,17 @@ Create and deploy your custom app in less time with fewer errors using sample co
 - Bash (Linux, MacOS or Git Bash)
 - [AWS account](https://aws.amazon.com/free) (non-production)
 - [Node.js](https://nodejs.org/en/download/) (optional)
+
+## Credentials
+You will need to have the following credentials handy in order to complete the lab:
+### Okta Org
+- Org name
+- Org base URL (i.e. oktapreview.com or okta.com)
+- API Token
+### ASA
+- API Key
+- API Secret
+- ASA Team Name
+### AWS
+- Access Key
+- Secret Key
