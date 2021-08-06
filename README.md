@@ -33,7 +33,7 @@ You will need to do the following preparation to be ready to complete the Develo
 ### AWS
 1. Create a new IAM user on your non-production account that is API access only
 2. Assign the IAM user to a group including EC2Full and VPCFull access
-3. Creat an API key for the IAM user and save the key and secret
+3. Create an API key for the IAM user and save the key and secret
 
 ## Credentials
 You will need to have the following credentials handy in order to complete the lab:
