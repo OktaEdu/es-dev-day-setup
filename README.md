@@ -16,24 +16,24 @@ Create and deploy your custom app in less time with fewer errors using sample co
 ## Setup Tasks
 You will need to do the following preparation to be ready to complete the Developer Day Lab:
 ### Okta Org
-- Login as an admin (at least app and org admin)
-- Create an API token
-- Save the API token value
-- Create a group called "ASA Access"
-- Add yourself to the new group
-- Add the Advanced Server Access application
+1. Login as an admin (at least app and org admin)
+2. Create an API token
+3. Save the API token value
+4. Create a group called "ASA Access"
+5. Add yourself to the new group
+6. Add the Advanced Server Access application
 ### ASA
-- Create a new ASA team integrated with your Okta Org as the IDP
-- Enable API provisioning in the ASA app
-- Assign the ASA Access group to the app
-- Push the ASA Access group to ASA
-- In ASA, create a service user
-- Create an API key for the service user and save the key and secret
-- Assign the new service user to the Owners group
+1. Create a new ASA team integrated with your Okta Org as the IDP
+2. Enable API provisioning in the ASA app
+3. Assign the ASA Access group to the app
+4. Push the ASA Access group to ASA
+5. In ASA, create a service user
+6. Create an API key for the service user and save the key and secret
+7. Assign the new service user to the Owners group
 ### AWS
-- Create a new IAM user on your non-production account that is API access only
-- Assign the IAM user to a group including EC2Full and VPCFull access
-- Creat an API key for the IAM user and save the key and secret
+1. Create a new IAM user on your non-production account that is API access only
+2. Assign the IAM user to a group including EC2Full and VPCFull access
+3. Creat an API key for the IAM user and save the key and secret
 
 ## Credentials
 You will need to have the following credentials handy in order to complete the lab:
