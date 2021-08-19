@@ -1,7 +1,9 @@
-# Developer Day 2021 Lab: Deploy a custom SPA app with Terraform
+# Developer Day 2021 Lab: Deploy a custom app with Terraform
 This readme covers configuring the environment that is required to complete this [Okta Developer Day](https://www.okta.com/developerday/) lab.
 ## Setup Video
 In addition to the following, you can view this [environment setup video](https://www.youtube.com/watch?v=zhVWF4cKgW0).
+
+Please allow up to an hour to complete the setup tasks.
 ## Prerequisites
 - [Developer](https://developer.okta.com/signup/) or Sandbox org
 - [ASA Team](https://app.scaleft.com/p/signupV2) with provisioning enabled
