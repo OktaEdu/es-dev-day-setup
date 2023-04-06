@@ -1,5 +1,5 @@
 # Developer Day 2021 Lab: Deploy a custom app with Terraform
-This readme covers configuring the environment that is required to complete this [Okta Developer Day](https://www.okta.com/developerday/) lab.
+This readme covers configuring the environment that is required to complete this [Okta Developer Day](https://github.com/OktaEdu/es-dev-day-21) lab.
 ## Setup Video
 In addition to the following, you can view this [environment setup video](https://www.youtube.com/watch?v=zhVWF4cKgW0).
 
